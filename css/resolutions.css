@@ -1,0 +1,108 @@
+
+@media (min-width: 1200px) {     
+    .textMax{
+        font-size: 55px;
+    }
+    .textBig{
+        font-size: 35px;
+    }
+    .textMedium{
+        font-size: 23px;
+    }
+    .textSmall{
+        font-size: 20px;
+    }
+    .aboutMeSection{
+        background: url('../images/cat_cute.png') no-repeat;
+        background-position: cover;        
+        -webkit-background-size: cover;
+        -moz-background-size: cover;
+        -o-background-size: cover;
+        background-size: center;
+    }
+ }
+
+@media (min-width: 992px) and (max-width: 1199.98px) {
+    .textMax{
+        font-size: 55px;
+    }
+    .textBig{
+        font-size: 35px;
+    }
+    .textMedium{
+        font-size: 23px;
+    }
+    .textSmall{
+        font-size: 20px;
+    }
+    .aboutMeSection{
+        background: url('../images/cat_cute.png') no-repeat;
+        background-position: cover;        
+        -webkit-background-size: cover;
+        -moz-background-size: cover;
+        -o-background-size: cover;
+        background-size: center;
+    }
+}
+
+@media (min-width: 768px) and (max-width: 991.98px) { 
+    .textMax{
+        font-size: 55px;
+    }
+    .textBig{
+        font-size: 35px;
+    }
+    .textMedium{
+        font-size: 23px;
+    }
+    .textSmall{
+        font-size: 20px;
+    }
+    .aboutMeSection{
+        background: url('../images/cat_cute.png') no-repeat;
+        background-position: cover;        
+        -webkit-background-size: cover;
+        -moz-background-size: cover;
+        -o-background-size: cover;
+        background-size: center;
+    }
+}
+
+@media (min-width: 576px) and (max-width: 767.98px) { 
+    .textMax{
+        font-size: 45px;
+    }
+    .textBig{
+        font-size: 27px;
+    }
+    .textMedium{
+        font-size: 23px;
+    }
+    .textSmall{
+        font-size: 20px;
+    }
+    .aboutMeSection{
+        background-color: #E00040 ;
+        height: 60vh;
+    }
+}
+
+@media (max-width: 575.98px) {
+    .textMax{
+        font-size: 40px;
+    }
+    .textBig{
+        font-size: 25px;
+    }
+    .textMedium{
+        font-size: 20px;
+    }
+    .textSmall{
+        font-size: 18px;
+    }
+    .aboutMeSection{
+        background-color: #E00040 ;
+        height: 60vh;
+      }
+      
+}
